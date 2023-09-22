@@ -1,0 +1,6 @@
+<svg width="70" height="70"  fill="none" xmlns="http://www.w3.org/2000/svg">
+<symbol id="magnf" viewbox="0 0 70 70">
+    <circle cx="30" cy="30" r="20" stroke-width="10" stroke="lightgreen" fill="white"></circle>
+    <polyline points=" 45, 45, 55, 55" stroke="lightgreen" stroke-width="10" stroke-linecap="round"></polyline>
+</symbol>
+</svg>
